@@ -1,4 +1,8 @@
-# FastSql
+# FastSQL 👻
+
+<p align="center">
+<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/4ebdb7ac-6a5a-42ca-a391-cd4fd2a5d18e" />
+</p>
 
 Projeto FastAPI + SQLModel com rate limiting e leitura de variáveis de ambiente para conectar ao banco de dados.
 
